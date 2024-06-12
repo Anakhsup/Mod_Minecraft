@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "%%%",
+    "%#%",
+    "$%%"
+  ],
+  "key": {
+    "#": {
+      "item": "lighterway:amethyst"
+    },
+    "$": {
+      "item": "minecraft:iron_ingot"
+    },
+    "%": {
+      "item": "minecraft:acacia_log"
+    }
+  },
+  "result": {
+    "item": "lighterway:acaciascissors",
+    "count": 1
+  }
+}

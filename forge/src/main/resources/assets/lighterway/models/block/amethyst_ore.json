@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lighterway:block/amethyst_ore"
+  }
+}

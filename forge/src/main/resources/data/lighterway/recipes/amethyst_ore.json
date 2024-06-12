@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#$"
+  ],
+  "key": {
+    "#": {
+      "item": "lighterway:amethyst"
+    },
+    "$": {
+      "item": "minecraft:sponge"
+    }
+  },
+  "result": {
+    "item": "lighterway:amethyst_ore",
+    "count": 1
+  }
+}
